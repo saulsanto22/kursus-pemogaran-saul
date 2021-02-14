@@ -1,0 +1,17 @@
+
+.container{
+    height: 550px;
+    width: 600px;
+    margin: 5em auto;
+    padding: 2rem;
+    font-family: 'Oswald', sans-serif;
+    
+    border-radius: 10px;
+    box-shadow: 3px 6px #888888;
+    background:linear-gradient(to right, rgb(168, 212, 109) , yellow);
+    
+    }
+
+    h2{
+        text-align: center;
+    }

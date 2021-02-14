@@ -1,0 +1,112 @@
+*{
+
+padding: 0;
+margin: 0;
+
+font-family: 'Merriweather', serif;
+
+
+}
+
+
+
+.form-group a{
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+}
+.button{
+ margin: 2rem auto;   
+}
+
+.containdaftar{
+height: 35%;
+background-color:#888888;
+padding: 10px;
+margin: 2% auto;
+background:linear-gradient(to right, rgb(168, 212, 109) , yellow);
+font-family: 'Merriweather', serif;
+
+
+
+}
+
+   button .btn-primary{
+width: 10em;
+margin: 1em ;
+border-radius: 10px;
+}
+
+.button .btn-danger{
+    width: 6em;
+    margin: 1em ;
+    border-radius: 20px;
+    }
+hr{
+    width: 7em;
+    background-color: black;
+    margin:-5px  auto;
+
+}
+
+
+.btn{
+border-radius: 25px;
+
+}
+
+form{
+    margin: 20px;
+}
+
+.jumbotron{
+ background-color: white;   
+}
+
+.judul{
+text-align: center;
+
+
+
+
+
+
+}
+
+.Container{
+    font-family: 'Langar', cursive;  
+}
+.services{
+padding: 70px;
+}
+
+
+
+  
+    .img-fluid{
+    height: 300px;
+  }
+  
+  
+@media  (min-width: 600px ) {
+    .containdaftar{
+        margin: 5% auto;
+        width: 500px;
+        display: flex;
+    
+        flex-direction: column;
+  
+border-radius: 25px;
+background-color: #888888;
+padding: 20px;
+box-sizing: border-box;
+
+
+
+
+
+    }
+
+  }
+ 
